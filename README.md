@@ -1,2 +1,2 @@
-# neural_networks
+# Machine learning
 Neural networks project example
